@@ -1,0 +1,89 @@
+ 
+
+.cardglobe{
+    font-family: "Montserrat",sans-serif;
+ margin:0 auto;
+ padding:25px;
+ max-width:600px;
+ min-width:400px;
+ background-color:#dfe6e9;
+ 
+ text-align:center;}
+.heading{
+    text-align: left;
+    margin-left: 65px;
+    font-size: 20px;
+    color: rgb(39, 39, 206);
+}
+
+.heading1{
+    text-align: left;
+    margin-left: 65px;
+    font-size: 13px;
+    color: rgb(41, 243, 193);
+}
+
+.cards {
+    border-radius: 25px;
+    position: relative;
+    padding: 15px 15px;
+    background-color: rgb(247,244,244);
+    margin: 30px 5px;
+    height : 500px;
+    box-shadow: 0px 2px 5px #dfe2e2;
+    }
+    
+
+    form{
+         padding: 20px 0;
+        position: relative;
+        }
+
+        input{
+        border: 1px solid rgba(46, 40, 40, 0.4);
+        background-color: rgba(252, 252, 252, 0.2);
+        width: 400px;
+        border-radius: 5px;
+        font-family: sans-serif;
+        padding: 10px 15px;
+        margin: 0 auto 10px auto;
+        display: block;
+        text-align :center;
+        font-size: 18px;
+        color: rgb(71,54,218);
+        font-weight: 300;
+    }
+
+.inputFlex{
+        display: flex;
+        padding: 0 20px;
+        margin-bottom : 10px;
+       
+    }
+     .input-1{
+        margin-right: 7px;
+        margin-left: 45px;}
+        .input-2{
+        margin-right: 100px;
+       
+        }
+        
+        label{
+     font-weight :700;
+        padding: 5px 42px;
+        margin: 5px;
+        }
+        
+    
+        form button{
+            appearance:none;
+            outline: 0;
+            background-color: #4210e5;
+            border: 0;
+            padding: 10px 15px;
+        color: white;
+            border-radius: 20px;
+            width: 180px;
+            font-size: 18px;
+            margin-top: 10px;
+        }
