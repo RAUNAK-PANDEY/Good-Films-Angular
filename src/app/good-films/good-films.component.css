@@ -1,0 +1,78 @@
+.genre{
+    font-size: 12px;
+    margin-left: 8px;
+    color: rgb(171, 162, 162);
+}
+
+.bi{
+    color: #fff;
+}
+
+.nav-item .nav-link {
+    color: #fff;
+}
+.navbar-brand{
+    color: #fff;
+}
+
+/* 2nd Navbar */
+
+.signin{
+    font-size: 15px;
+    color: rgb(171, 162, 162);
+}
+
+.twitter{
+    background-color: hsl(193, 66%, 55%) !important;
+}
+
+.search{
+    transform: rotate(-220deg);
+}
+
+.viaEmail{
+    color: #fff !important;
+    font-size: 14px;
+    text-decoration: underline !important;
+}
+
+.signup{
+    color: #fff !important;
+}
+
+.container{
+    background-color: #4a4c4d;
+    min-width: 100vw
+}
+
+.container .row1{
+   
+    padding-top: 50px;
+  
+  padding-bottom: 50px;
+
+}
+
+.find{
+    font-size: 26px;
+    color: rgb(144, 139, 139);
+}
+
+.great{
+    color: #fff;
+}
+.basedon{
+    font-size: 13px;
+    color: rgb(144, 139, 139);
+}
+
+.helpus{
+    height: 67px;
+    width: 340px;
+    background-color:#fff ;
+    border-radius: 4px;
+}
+
+.onlytakes{
+    margin-left: -64px;
+}
