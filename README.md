@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Output 
 
-<img width="652" alt="output-angular" src="https://user-images.githubusercontent.com/65064180/163185716-5cafbe45-cbfb-48fb-9e7a-95168453ec6d.png">
+<img width="652" alt="good films" src="https://user-images.githubusercontent.com/65064180/167289237-81a1d11c-f76d-4ad7-9a01-1cbf5a930363.png">
